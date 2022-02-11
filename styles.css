@@ -1,0 +1,30 @@
+input[type=text], input[type=date], input[type=email], input[type=password], input[type=url], input[type=search], textarea, select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #CD7B00;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 20%;
+    background-color: #CD7B00;
+    color: white;
+    padding: 14px 20px;
+    margin: 15px 0;
+    border: none;
+    border-radius: 4px;
+}
+h3, p{
+    color: #4D4D4D;
+    font-family: Arial;
+}
+div {
+    border-radius: 10px;
+    border-style: solid;
+    background-color:#FFFFFF;
+    border-color:#CD7B00;
+    padding: 40px;
+    margin: 60px;
+}
